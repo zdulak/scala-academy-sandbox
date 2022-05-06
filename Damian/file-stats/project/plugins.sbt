@@ -1,1 +1,1 @@
-addSbtPlugin("se.marcuslonnberg" % "sbt-docker" % "1.8.2")
+addSbtPlugin("se.marcuslonnberg" % "sbt-docker" % "1.9.0")
